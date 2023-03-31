@@ -1,0 +1,100 @@
+[api-updater (non-obsolete-error-filter)] 2022/6/9 18:43:28 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 4204.2467ms
+moved types parse time: 92ms
+candidates parse time : 1ms
+C# parse time         : 567ms
+candidates check time : 60ms
+console write time    : 10ms
+
+[api-updater (non-obsolete-error-filter)] 2022/6/9 18:44:10 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 133.8183ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 213ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/6/15 20:30:43 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 769.9477ms
+moved types parse time: 268ms
+candidates parse time : 2ms
+C# parse time         : 1074ms
+candidates check time : 134ms
+console write time    : 26ms
+
+[api-updater (non-obsolete-error-filter)] 2022/6/20 20:50:04 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 683.6975ms
+moved types parse time: 305ms
+candidates parse time : 26ms
+C# parse time         : 908ms
+candidates check time : 67ms
+console write time    : 12ms
+
+[api-updater (non-obsolete-error-filter)] 2022/6/22 18:07:35 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 998.47ms
+moved types parse time: 232ms
+candidates parse time : 107ms
+C# parse time         : 891ms
+candidates check time : 115ms
+console write time    : 9ms
+
+[api-updater (non-obsolete-error-filter)] 2022/6/24 18:01:27 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 969.4993ms
+moved types parse time: 123ms
+candidates parse time : 24ms
+C# parse time         : 582ms
+candidates check time : 45ms
+console write time    : 8ms
+
+[api-updater (non-obsolete-error-filter)] 2022/6/24 22:00:10 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 501.6201ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 316ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/6/24 22:01:09 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 300.1977ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 268ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/6/30 19:43:11 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1201.6065ms
+moved types parse time: 255ms
+candidates parse time : 2ms
+C# parse time         : 1149ms
+candidates check time : 138ms
+console write time    : 9ms
+
+[api-updater (non-obsolete-error-filter)] 2022/7/4 19:39:35 : Starting D:/Unity3d/hub/2020.3.17f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1102.7141ms
+moved types parse time: 221ms
+candidates parse time : 52ms
+C# parse time         : 914ms
+candidates check time : 107ms
+console write time    : 12ms
+
